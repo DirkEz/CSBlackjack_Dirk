@@ -1,0 +1,15 @@
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\bin\Debug\net6.0\BlackJackP7.exe
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\bin\Debug\net6.0\BlackJackP7.deps.json
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\bin\Debug\net6.0\BlackJackP7.runtimeconfig.json
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\bin\Debug\net6.0\BlackJackP7.dll
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\bin\Debug\net6.0\BlackJackP7.pdb
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.csproj.AssemblyReference.cache
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.AssemblyInfoInputs.cache
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.AssemblyInfo.cs
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.csproj.CoreCompileInputs.cache
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.dll
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\refint\BlackJackP7.dll
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.pdb
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\BlackJackP7.genruntimeconfig.cache
+C:\Users\dirk2\source\repos\BlackJackP7\BlackJackP7\obj\Debug\net6.0\ref\BlackJackP7.dll
